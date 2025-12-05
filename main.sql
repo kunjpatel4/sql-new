@@ -20,9 +20,9 @@ CREATE TABLE IF NOT EXISTS employee_audit (
 );
 
 INSERT INTO employees (name, position, salary, hire_date) VALUES
-('John Doe', 'Software Engineer', 80000.00, '2022-01-15'),
-('Jane Smith', 'Project Manager', 90000.00, '2021-05-22'),
-('Alice Johnson', 'UX Designer', 75000.00, '2023-03-01');
+('modi', 'Software Engineer', 80000.00, '2022-01-15'),
+('ishowspeed', 'Project Manager', 90000.00, '2021-05-22'),
+('dharampal', 'UX Designer', 75000.00, '2023-03-01');
 
 DELIMITER $$
 
